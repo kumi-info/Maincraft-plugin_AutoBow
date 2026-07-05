@@ -1,0 +1,11 @@
+name: AutoBow
+version: 1.0.0
+main: com.github.autobow.AutoBowPlugin
+api-version: '1.21'
+description: Auto bow firing plugin
+
+commands:
+  autobow:
+    description: AutoBow control command
+    usage: /autobow <on|off|speed> [player] [ticks]
+    aliases: [ab]
