@@ -1,4 +1,5 @@
-# AutoBow
+# Maincraft-plus_AutoBow
+【Maincraft】タワーディフェンス-自動連射
 
 Paper 1.21 プラグイン — 指定プレイヤーが弓を持って右クリックすると自動で弓を引いて発射を繰り返す。
 
